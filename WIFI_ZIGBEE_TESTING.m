@@ -1,10 +1,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% wl_example_siso_ofdm_txrx.m
-% A detailed write-up of this example is available on the wiki:
-% http://warpproject.org/trac/wiki/WARPLab/Examples/OFDM
+% WIFI_ZIGBEE_TESTING.m
+% Complete testing between WiFi and Zigbee
+% 
 %
-% Copyright (c) 2015 Mango Communications - All Rights Reserved
-% Distributed under the WARP License (http://warpproject.org/license)
+% 
+%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all
 close all
